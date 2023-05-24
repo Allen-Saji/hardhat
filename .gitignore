@@ -4,6 +4,10 @@ coverage
 coverage.json
 typechain
 typechain-types
+.etherscan
+.sepolia
+.infura
+.secret
 
 # Hardhat files
 cache
